@@ -1,0 +1,26 @@
+# Ignore Visual Studio temporary files, build results, and
+# folder settings
+*.log
+*.user
+*.rsuser
+*.suo
+*.pdb
+*.cache
+*.ilk
+*.tmp
+*.csproj.user
+
+# Ignore build results
+/bin
+/obj
+
+# Ignore the Visual Studio Code settings folder
+.vscode/
+
+# Ignore the .NET user-specific files
+*.dbmdl
+*.jfm
+
+# Ignore NuGet packages
+packages/
+*.nupkg
